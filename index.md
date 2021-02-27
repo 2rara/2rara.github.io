@@ -2,32 +2,14 @@
 
 ---
 
-### Category Name 1 
+[Reykjavik Marathon Analyzer](https://github.com/2rara/Jupyter-Notebook/blob/master/Reykjavik Marathon 2019 Analyzer.ipynb)
+<img src="images/sub3runners.png?raw=true"/>
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
+[Japanese-Norwegian online free dictionary](https://www.jisho.no)
+<img src="images/jisho.png?raw=true"/>
 
 
 ---
