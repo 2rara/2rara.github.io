@@ -3,7 +3,7 @@
 ---
 
 [Reykjavik Marathon Analyzer](https://github.com/2rara/Jupyter-Notebook/blob/master/Reykjavik Marathon 2019 Analyzer.ipynb)
-<img src="images/sub3runners.png?raw=true"/>
+<img src="images/sub4runners.png?raw=true"/>
 
 
 [Japanese-Norwegian online free dictionary](https://www.jisho.no)
